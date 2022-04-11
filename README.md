@@ -1,4 +1,4 @@
-Hi i'm Stathis Dou, this is my code repository. I'm attached to VB.Net for the last 20 years or so and recently started the migration to c#.
+This is my code repository for VB.Net and C#. Slowly migrating 20 years of visual basic to c#.
 
 <!---
 StathisDou/StathisDou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
